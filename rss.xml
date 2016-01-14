@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Brian Adler]]></title>
-        <description><![CDATA[Brian Adler]]></description>
+        <title><![CDATA[Home]]></title>
+        <description><![CDATA[Home]]></description>
         <link>https://thegrid.ai/brian-adler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 14:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 14:22:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brian-adler/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c64d6f2-d34e-4061-a8a6-89729128fd45.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/brian-adler/4bcfaf5d-3d5b-4fe3-baac-ca0bcd9b8647/index.html</link>
             <guid isPermaLink="false">4bcfaf5d-3d5b-4fe3-baac-ca0bcd9b8647</guid>
-            <pubDate>Thu, 14 Jan 2016 14:20:58 GMT</pubDate>
+            <pubDate>Thu, 14 Jan 2016 14:22:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
